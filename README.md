@@ -1,5 +1,5 @@
 
-# 👋 Hello, I'm [Monikaa]!
+# 👋 Hello, I'm Monikaa!
 
 iOS Developer | Swift Enthusiast | Eager to Code
 
